@@ -7,9 +7,6 @@
 * [FFC WIKY ONLY JS](https://codepen.io/LauraEnria/pen/pdWyaP)
 
 
-FFC WIKY CODEBAR
-
-
 # Other Projects
 * [My project for "Games for the Many"](https://codepen.io/LauraEnria/full/vWbxEE/)
 
