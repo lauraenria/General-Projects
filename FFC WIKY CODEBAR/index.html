@@ -1,0 +1,44 @@
+<!--<!DOCTYPE html>-->
+<html lang="en">
+    
+    <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta http-equiv="X-UA-Compatible" content="ie=edge">
+      <link href="https://fonts.googleapis.com/css?family=Rubik:400" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css?family=Merriweather:400,700" rel="stylesheet">
+      <link rel="EditURI" type="application/rsd+xml" href="//www.mediawiki.org/w/api.php?action=rsd" />
+      <script src="https://use.fontawesome.com/290519fbc7.js"></script>
+      <link rel="stylesheet" href="style.css">
+      <title>Wikipedia API Search</title>
+    </head>
+    
+    <body>
+      <div class="container">
+        <!-- HEADING section-->
+        <header>
+          <h1>Wikipedia Search Engine <img src="https://mbg-germering.de/Uploads/c6f796ae12b4667f6aa0f3ed6d812456/jV9Rnj/Wikipedia_logo_v2.svg.png/Wikipedia_logo_v2.svg.png" alt="Wikipedia"></h1></header>
+        <!-- SEARCH section-->
+        <div class="search">
+          <form id="searchForm">
+            <input class="search-box" id="searchTerm" type="text" placeholder="Try me - don't wait!" required><button id="search"><span><i class="fa fa-search" aria-hidden="true"></i>Search</span></button>
+          </form>
+          <div class="lucky">
+            <a href="https://en.wikipedia.org/wiki/Special:Random" target="_blank"><button  type="submit">I'm Feeling Lucky! <i class="fa fa-random" aria-hidden="true"></i>
+             </button></a>
+          </div>
+        </div>
+        <!-- RESULT section-->
+        <ul class="result">
+        </ul>
+        <!-- FOOTER section-->
+        <footer>
+          <p>Created with <span><i class="fa fa-heart" aria-hidden="true"></i>
+    </span>by <a href="https://codepen.io/LauraEnria/full/brLqom/" target="_blank">Laura Enria</a></p>
+        </footer>
+      </div>
+    </body>
+        <script src="javascript.js"></script>
+    </html>
+    
