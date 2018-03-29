@@ -1,0 +1,83 @@
+body {
+    background-color: #FFB654;
+    color: #FFD398
+  }
+  
+  .main {
+    margin: 100px auto;
+    width: 50%;  
+  }
+  
+  .container {
+    max-width: 600px;
+    width: 100%;
+    background-color: #FF9508;
+    height: 100%;
+    padding: 20px 50px;
+    border: 2px #FFD398 solid;
+    border-radius: 10px;
+    font-size: 30px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #title {
+    font-size: 45px;
+    padding-bottom: 0.5em;
+    font-family: "Pacifico", Helvetica, Arial, sans-serif;
+  }
+  
+  #quote{
+   max-width:600px; 
+   max-height: 600px;
+   padding: 5px
+   margin 10px;
+  }
+  
+  #author{
+    margin: auto;
+    width: 50%;
+    padding: 30px;
+  }
+  
+  #getQuote{
+    background-color: #FFB654;
+    border: none;
+    display: inline-block;
+     color: white;
+     padding: 15px 32px;
+     text-align: center;
+     text-decoration: none;
+     font-size: 25px;
+     cursor:pointer;
+  }
+  
+  .containerFooter{
+    text-align: left; /*not working */
+    margin: auto;
+    width: 50%;
+  }
+  
+  h3{
+    color: #900C3F;
+     text-align: center;
+  }
+  
+  a{
+      color: #900C3F
+        
+  }
+  
+  .fa{
+    padding: 5px;
+    margin: 5px;
+    cursor:pointer;
+  }
+  
+  p{
+     color: #5E0D29;
+     text-align: center;
+     font-size: 30px;
+  }
