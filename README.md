@@ -6,6 +6,7 @@
 * [Wikipedia Viewer FCC](https://codepen.io/LauraEnria/pen/OxOmWz?editors=1010)
 * [FFC WIKY ONLY JS](https://codepen.io/LauraEnria/pen/pdWyaP)
 * [FFC Random Quote Machine](https://codepen.io/LauraEnria/pen/KvZxqj)
+* [FFC Weather App](https://codepen.io/LauraEnria/full/jLojPN/)
 
 
 
